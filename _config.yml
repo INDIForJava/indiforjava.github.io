@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jemoji
+
+jekyll-mentions: https://github.com
+author: INDIForJava
+title: "INDIForJava"
